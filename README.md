@@ -9,4 +9,4 @@
 - ennätystulos päivittyy pelatessa ja all-time ennätystulos tallennetaan tiedostoon
 # - vaikeustaso (nopeus ja hirviöiden määrä) kasvaa pelin edetessä uudelle tasolle
 # - kentän väri vaihtuu kentan vaihtuessa uudelle tasolle
-# 
+# - ennätys päivittyy pelatessa, all-time-record päivittyy tiedostoon
