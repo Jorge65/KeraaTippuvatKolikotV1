@@ -6,4 +6,4 @@
 # - robotilla yritetään kerätä tippuvia kolikoita
 # - ennätystulos päivittyy pelatessa ja all-time ennätystulos tallennetaan tiedostoon
 # - vaikeustasot (nopeus ja hirviöiden määrä) kasvavat jokaisen 10 onnistumisen jälkeen
-# - kentän väri vaihtuu kentan vaihtuessa uudelle tasoll
+# - kentän väri vaihtuu kentan vaihtuessa uudelle tasolle
