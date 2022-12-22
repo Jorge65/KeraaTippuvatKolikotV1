@@ -1,4 +1,4 @@
-# KeraaTippuvatKolikot2
+# KeraaTippuvatKolikot (v1.0)
 # - Peli, jossa yritetään metsästää tippuvia kolikoita ja väistellä hirviöitä
 # - Koodaaja: Jorma Kemppainen
 # Ominaisuuksia: 
